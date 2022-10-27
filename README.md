@@ -1,5 +1,5 @@
 # Proyecto Individual 01 - Data Engineering 
-<img src="..\_src\henry.png" height="300">
+
 
 ## Descripción del Proyecto
 
@@ -27,4 +27,4 @@ Librerias en Python:
 
 En el proyecto se tomaron archivos en diferentes formatos para así llevarlos a un proceso de validacion, limpieza y transformación desde la herrramienta de python luego pasando a Mysql Workbench, haciendo una carga incremental en ETL en este proceso, identificamos y procesamos filas nuevas y modificadas desde la última ejecución de ETL, por último hacer una query del precio promedio de la sucursal.
 
-<img src="..\_src\Diagrama proceso etl Karen.jpeg" height="300">
+![image](https://github.com/Karenuzca/Proyecto_individual01/blob/main/Diagrama%20proceso%20etl%20Karen.jpeg)
