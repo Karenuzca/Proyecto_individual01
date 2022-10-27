@@ -1,5 +1,5 @@
 # Proyecto Individual 01 - Data Engineering 
-
+![imagen](https://github.com/Karenuzca/Proyecto_individual01/blob/main/henry.png)
 
 ## Descripción del Proyecto
 
